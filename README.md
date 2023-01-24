@@ -4,7 +4,7 @@ Este proyecto fue creado en el programa ONE de [Oracle](https://www.oracle.com/c
 
 ## Bienvenidos y Bienvenidas a mi primer desafio Encriptador de Texto.
 
-![encriptador](https://user-images.githubusercontent.com/67718246/214201113-3d4f32e4-bf05-4fe2-b13f-33a0037b1fc4.png)
+![encriptador](https://user-images.githubusercontent.com/67718246/214201330-51087b23-e0b9-4e5e-80f0-43a56d2fa616.png)
 
 El proyecto esta desarrollado con HTML5 CSS3 y JAVASCRIPT.
 
