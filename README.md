@@ -41,5 +41,5 @@ Las imagenes, el codigo  y la carpeta de archivos la podemos descargar directame
 
 ## Redes Sociales
 
-Si te gusto el proyecto dale una estrellita, si tienes dudas o sujerencias y quieres charlar conmigo, me puedes agregar a tus contactos o seguirme en mis redes sociales [LInkedin](https://www.linkedin.com/in/otorres-38a6241a2/) [Github](https://github.com/Otorres851) Autor: Oscar Enrique Botello Torres.
+Si te gusto el proyecto dale una estrellita, si tienes dudas o sujerencias y quieres charlar conmigo, me puedes agregar a tus contactos o seguirme en mis redes sociales [LInkedin](https://www.linkedin.com/in/otorres-38a6241a2/) [Github](https://github.com/Otorres851) Autor: Oscar Enrique Botello Torres...
 
