@@ -10,7 +10,7 @@ El proyecto esta desarrollado con HTML5 CSS3 y JAVASCRIPT.
 
 ### `Descripción`
 
-El desafio consiste en una aplicación de texto, que nos permite encriptar de manera rapida un texto, poderlo copiar y asi mismo poderlo desencriptar de tal manera que el usuario que este utilizando la aplicación, pueda compartir con otros usuarios mensajes secretos que no puedan ser visible a cualquier pesona.
+El desafío consiste en una aplicación de texto, que nos permite encriptar de manera rapida un texto, poderlo copiar y asi mismo poderlo desencriptar de tal manera que el usuario que este utilizando la aplicación, pueda compartir con otros usuarios mensajes secretos que no puedan ser visible a cualquier pesona.
 
 ### `Requisitos`
 
