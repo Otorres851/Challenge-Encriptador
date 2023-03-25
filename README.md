@@ -37,7 +37,7 @@ Link de acceso: [Encriptador-ONE](https://otorres851.github.io/Challenge-Encript
 
 **Nota: La aplicación es responsiva y se puede ver desde cualquier dispositivo ya sea Tablet o Móvil!**
 
-Las imagenes, el codigo  y la carpeta de archivos la podemos descargar directamente desde el repositorio de Github y la podemos modificar al gusto como plantilla para proyectos futuros con fines educativos.
+Las imágenes, el código y la carpeta de archivos la podemos descargar directamente desde el repositorio de Github y la podemos modificar al gusto como plantilla para proyectos futuros con fines educativos.
 
 ## Redes Sociales
 
