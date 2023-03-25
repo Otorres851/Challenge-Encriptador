@@ -10,7 +10,7 @@ El proyecto esta desarrollado con HTML5 CSS3 y JAVASCRIPT.
 
 ### `Descripción`
 
-El desafío consiste en una aplicación de texto, que nos permite encriptar de manera rapida un texto, poderlo copiar y asi mismo poderlo desencriptar de tal manera que el usuario que este utilizando la aplicación, pueda compartir con otros usuarios mensajes secretos que no puedan ser visible a cualquier pesona.
+El desafío consiste en una aplicación de texto, que nos permite encriptar de manera rápida un texto, poderlo copiar y así mismo poderlo desencriptar de tal manera que el usuario que este utilizando la aplicación, pueda compartir con otros usuarios mensajes secretos que no puedan ser visible a cualquier persona.
 
 ### `Requisitos`
 
@@ -35,11 +35,11 @@ Link de acceso: [Encriptador-ONE](https://otorres851.github.io/Challenge-Encript
 
 ### `Como podemos obtener la aplicación`
 
-**Nota: La aplicación es responsiva y se puede ver desde cualquier dispostivo ya sea tablet o movil!**
+**Nota: La aplicación es responsiva y se puede ver desde cualquier dispositivo ya sea Tablet o Móvil!**
 
 Las imagenes, el codigo  y la carpeta de archivos la podemos descargar directamente desde el repositorio de Github y la podemos modificar al gusto como plantilla para proyectos futuros con fines educativos.
 
 ## Redes Sociales
 
-Si te gusto el proyecto dale una estrellita, si tienes dudas o sujerencias y quieres charlar conmigo, me puedes agregar a tus contactos o seguirme en mis redes sociales [LInkedin](https://www.linkedin.com/in/otorres-38a6241a2/) [Github](https://github.com/Otorres851) Autor: Oscar Enrique Botello Torres...
+Si te gusto el proyecto dale una estrellita, si tienes dudas o sugerencias y quieres charlar conmigo, me puedes agregar a tus contactos o seguirme en mis redes sociales [LInkedin](https://www.linkedin.com/in/otorres-38a6241a2/) [Github](https://github.com/Otorres851) Autor: Oscar Enrique Botello Torres.
 
